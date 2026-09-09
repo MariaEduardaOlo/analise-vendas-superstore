@@ -39,4 +39,4 @@ Os resultados também foram utilizados na construção de um dashboard no Power 
 
 Abaixo está o dashboard desenvolvido no Power BI:
 
-![Dashboard Superstore](imagens/dashboard.png)
+![Dashboard Superstore](Imagens/dashboard.png)
