@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo analisar os dados de vendas da Superstore, buscando identificar padrões de vendas, categorias com melhor desempenho, regiões com maior faturamento e evolução das vendas ao longo do tempo.
 
-A análise foi desenvolvida utilizando Python, pasndas, Matplotlib e Power BI, com foco na exploração dos dados e na criação de indicadores para apoiar a interpretação dos resultados.
+A análise foi desenvolvida utilizando Python, pandas, Matplotlib e Power BI, com foco na exploração dos dados e na criação de indicadores para apoiar a interpretação dos resultados.
 
 ## Ferramentas utilizadas
 
